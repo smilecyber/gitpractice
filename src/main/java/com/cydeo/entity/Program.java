@@ -6,6 +6,7 @@ import lombok.Data;
 public class Program {
     private Integer id;
     private String programCode;
-    private String programName;
+    private String TprogramNameT;
     private String programDetails;
+    private String published;
 }
