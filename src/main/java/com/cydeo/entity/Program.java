@@ -8,6 +8,6 @@ public class Program {
     private String programCode;
     private String Program_NAME;
     private String programDetails;
-
+    private String published;
 }
 
