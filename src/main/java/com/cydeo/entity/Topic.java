@@ -8,4 +8,8 @@ public class Topic {
     private Integer id;
     private String name;
     private List<Course> courseList;
+
+    public String getTopicName(){
+        return id+name;
+    }
 }
